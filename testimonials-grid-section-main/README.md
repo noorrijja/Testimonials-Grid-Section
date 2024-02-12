@@ -9,7 +9,13 @@
 
 ### Screenshot
 
-#### Active State
+### iPhone 6
+
+![screencapture-127-0-0-1-5500-testimonials-grid-section-main-index-html-2024-02-12-21_26_36](https://github.com/noorrijja/Testimonials-Grid-Section/assets/144622904/7e6a1c7d-7efb-4234-bf99-e0fbfba68482)
+
+### Macbook Pro
+
+![screencapture-127-0-0-1-5500-testimonials-grid-section-main-index-html-2024-02-12-21_30_17](https://github.com/noorrijja/Testimonials-Grid-Section/assets/144622904/a81b6062-dea7-4c89-89e0-381eb8f426f9)
 
 ### Built with
 
