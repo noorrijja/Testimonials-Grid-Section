@@ -23,10 +23,9 @@
 - CSS
 - CSS Grid
 
-### What I learned
+### Key Takeaway
 
-- Responsive grid layout using mobile first approach.
-  PS: I Found mobile first approach quite easy.
+While working on grid layouts, it's better to go for the mobile-first approach, and then styling the rows and columns, and div items for other specific screen sizes. 
 
 ### Continued development
 
